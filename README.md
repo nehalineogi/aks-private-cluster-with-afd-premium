@@ -1,6 +1,6 @@
 # Purpose
 
-Expose Private Cluster ILB endpoint using global load balancer.
+Review Architecture options to expose AKS Private Cluster ILB endpoint using global load balancer (Azure Traffic Manager vs Azure Front Door Premium)
 
 ## Azure Documentation
 
