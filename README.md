@@ -2,6 +2,10 @@
 
 Expose Private Cluster ILB endpoint using global load balancer.
 
+## Azure Documentation
+
+https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/concept-private-link
+
 # Architecture diagram
 
 ## Using Application Gateway and Traffic Manager
